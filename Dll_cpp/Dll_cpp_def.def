@@ -1,0 +1,2 @@
+LIBRARY Dll_cpp
+EXPORTS cppASCIIArt
